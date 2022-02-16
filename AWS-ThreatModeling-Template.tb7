@@ -994,7 +994,7 @@
       </StencilConstraints>
     </ElementType>
     <ElementType>
-      <Name>Administator</Name>
+      <Name>Administrator</Name>
       <ID>9ac42ab5-04ce-4f50-bb7b-e0f44757b770</ID>
       <Description />
       <ParentElement>a89fb4ef-7f10-4fce-93dc-4b4566333689</ParentElement>
